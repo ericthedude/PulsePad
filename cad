@@ -1,1 +1,7 @@
+Pulsepad/
+└── cad/
+    ├── bottomcase.step
+    ├── pcb.step
+    ├── topcase.step
+    └── assemblyfinal.step
 
